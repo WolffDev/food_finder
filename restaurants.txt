@@ -2,9 +2,4 @@ McD	Fast Food	10
 Thai Dress	Thai Food	40
 Mcd	Fast Food	10
 Wolff's Den	Awesome food	5
-Tester	Test	124
 pita pocket	fast food	8
-test	1sda	12
-asdasd	asdasd	213
-Aalberg	fast food	10
-aalberg	aal	25
