@@ -2,3 +2,4 @@ McD	Fast Food	10
 Thai Dress	Thai Food	40
 Mcd	Fast Food	10
 Wolff's Den	Awesome food	5
+Tester	Test	124
